@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16117" started-at="2018-10-23T10:19:50Z" finished-at="2018-10-23T10:20:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16117" started-at="2018-10-23T10:19:50Z" finished-at="2018-10-23T10:20:06Z">
+      <class name="scirpts.Withdraw_with_non_existing_account_no">
+        <test-method status="PASS" signature="Open_browser()[pri:0, instance:scirpts.Withdraw_with_non_existing_account_no@45c8e616]" name="Open_browser" is-config="true" duration-ms="6423" started-at="2018-10-23T13:19:50Z" finished-at="2018-10-23T13:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method status="PASS" signature="Withdraw_with_non_existing_account_nos()[pri:0, instance:scirpts.Withdraw_with_non_existing_account_no@45c8e616]" name="Withdraw_with_non_existing_account_nos" duration-ms="8034" started-at="2018-10-23T13:19:56Z" finished-at="2018-10-23T13:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Withdraw_with_non_existing_account_nos -->
+        <test-method status="PASS" signature="Close_browser()[pri:0, instance:scirpts.Withdraw_with_non_existing_account_no@45c8e616]" name="Close_browser" is-config="true" duration-ms="1643" started-at="2018-10-23T13:20:04Z" finished-at="2018-10-23T13:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+      </class> <!-- scirpts.Withdraw_with_non_existing_account_no -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
